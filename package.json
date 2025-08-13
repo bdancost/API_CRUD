@@ -1,0 +1,21 @@
+{
+  "name": "api_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdancost/API_CRUD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/bdancost/API_CRUD/issues"
+  },
+  "homepage": "https://github.com/bdancost/API_CRUD#readme"
+}
